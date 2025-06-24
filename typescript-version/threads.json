@@ -1,0 +1,392 @@
+{
+  "threads": [
+    {
+      "id": "1386922746671530004",
+      "type": 11,
+      "last_message_id": "1386922746671530004",
+      "flags": 0,
+      "guild_id": "1106167432936173668",
+      "name": "post #1",
+      "parent_id": "1386922447583973437",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "1096392763144159252",
+      "thread_metadata": {
+        "archived": false,
+        "archive_timestamp": "2025-06-24T04:15:50.585000+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": "2025-06-24T04:15:50.585000+00:00"
+      },
+      "message_count": 0,
+      "member_count": 0,
+      "total_message_sent": 0,
+      "applied_tags": [
+        "1386922501099094106"
+      ]
+    },
+    {
+      "id": "1386922845468364911",
+      "type": 11,
+      "last_message_id": "1386922845468364911",
+      "flags": 0,
+      "guild_id": "1106167432936173668",
+      "name": "post #2",
+      "parent_id": "1386922447583973437",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "1096392763144159252",
+      "thread_metadata": {
+        "archived": false,
+        "archive_timestamp": "2025-06-24T04:16:14.140000+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": "2025-06-24T04:16:14.140000+00:00"
+      },
+      "message_count": 0,
+      "member_count": 0,
+      "total_message_sent": 0,
+      "applied_tags": [
+        "1386922534615908492"
+      ]
+    },
+    {
+      "id": "1386922982642946089",
+      "type": 11,
+      "last_message_id": "1386922982642946089",
+      "flags": 0,
+      "guild_id": "1106167432936173668",
+      "name": "post #3",
+      "parent_id": "1386922447583973437",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "1096392763144159252",
+      "thread_metadata": {
+        "archived": false,
+        "archive_timestamp": "2025-06-24T04:16:46.845000+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": "2025-06-24T04:16:46.845000+00:00"
+      },
+      "message_count": 0,
+      "member_count": 0,
+      "total_message_sent": 0,
+      "applied_tags": [
+        "1386922501099094106"
+      ]
+    },
+    {
+      "id": "1386941267405045843",
+      "type": 11,
+      "last_message_id": "1386941267405045843",
+      "flags": 0,
+      "guild_id": "1106167432936173668",
+      "name": "post #4",
+      "parent_id": "1386922447583973437",
+      "rate_limit_per_user": 0,
+      "bitrate": 64000,
+      "user_limit": 0,
+      "rtc_region": null,
+      "owner_id": "1096392763144159252",
+      "thread_metadata": {
+        "archived": false,
+        "archive_timestamp": "2025-06-24T05:29:26.272000+00:00",
+        "auto_archive_duration": 4320,
+        "locked": false,
+        "create_timestamp": "2025-06-24T05:29:26.272000+00:00"
+      },
+      "message_count": 0,
+      "member_count": 1,
+      "total_message_sent": 0,
+      "applied_tags": [
+        "1386922501099094106",
+        "1386922534615908492"
+      ]
+    }
+  ],
+  "members": [],
+  "has_more": false,
+  "first_messages": [
+    {
+      "type": 0,
+      "content": "testing testing",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1386922746931445881",
+          "filename": "image.png",
+          "size": 749593,
+          "url": "https://cdn.discordapp.com/attachments/1386922746671530004/1386922746931445881/image.png?ex=685b77f6&is=685a2676&hm=cd1e7a22bead1797b147e27dbf59e466f15b6395b2215d7b9b026f687b03a956&",
+          "proxy_url": "https://media.discordapp.net/attachments/1386922746671530004/1386922746931445881/image.png?ex=685b77f6&is=685a2676&hm=cd1e7a22bead1797b147e27dbf59e466f15b6395b2215d7b9b026f687b03a956&",
+          "width": 958,
+          "height": 1208,
+          "content_type": "image/png",
+          "content_scan_version": 2,
+          "placeholder": "zNcJDgRHVednZwiYiYKJhniYMGKLK/g=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-06-24T04:15:50.585000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1386922746671530004",
+      "channel_id": "1386922746671530004",
+      "author": {
+        "id": "1096392763144159252",
+        "username": "blankparticle",
+        "avatar": "63e62c1fd8470fafcec008eaa9486bf0",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blank",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        },
+        "primary_guild": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    },
+    {
+      "type": 0,
+      "content": "testing no image",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2025-06-24T04:16:14.140000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1386922845468364911",
+      "channel_id": "1386922845468364911",
+      "author": {
+        "id": "1096392763144159252",
+        "username": "blankparticle",
+        "avatar": "63e62c1fd8470fafcec008eaa9486bf0",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blank",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        },
+        "primary_guild": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    },
+    {
+      "type": 0,
+      "content": "testing yo",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1386922982886084608",
+          "filename": "icon_10_anna_2.png",
+          "size": 212127,
+          "url": "https://cdn.discordapp.com/attachments/1386922982642946089/1386922982886084608/icon_10_anna_2.png?ex=685b782e&is=685a26ae&hm=539f076a76f8c7d345ab2afa4da863e0f522029f0b32c5fe3273c4ab7f454bd1&",
+          "proxy_url": "https://media.discordapp.net/attachments/1386922982642946089/1386922982886084608/icon_10_anna_2.png?ex=685b782e&is=685a26ae&hm=539f076a76f8c7d345ab2afa4da863e0f522029f0b32c5fe3273c4ab7f454bd1&",
+          "width": 400,
+          "height": 400,
+          "content_type": "image/png",
+          "content_scan_version": 2,
+          "placeholder": "EdeFDQIsI/pneqVc2AaHcXAIB1eHiIBzWA==",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2025-06-24T04:16:46.845000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1386922982642946089",
+      "channel_id": "1386922982642946089",
+      "author": {
+        "id": "1096392763144159252",
+        "username": "blankparticle",
+        "avatar": "63e62c1fd8470fafcec008eaa9486bf0",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blank",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        },
+        "primary_guild": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    },
+    {
+      "type": 0,
+      "content": "https://fxtwitter.com/andpproximately/status/1936869923495858499",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "rich",
+          "url": "https://fxtwitter.com/andpproximately/status/1936869923495858499",
+          "description": "Under Employment\n︀︀[#heartheartart](https://x.com/hashtag/heartheartart) #ツユおむアート [#TUYU](https://x.com/hashtag/TUYU)\n\n**[🔁](https://x.com/intent/retweet?tweet_id=1936869923495858499) 56 [❤️](https://x.com/intent/like?tweet_id=1936869923495858499) 517 👁️ 3\\.8K **",
+          "color": 6513919,
+          "timestamp": "2025-06-22T19:32:29+00:00",
+          "author": {
+            "name": "⚡️Andromeda! Approximately 🌌 | VGen Open Comms (@andpproxima...",
+            "url": "https://x.com/andpproximately/status/1936869923495858499",
+            "icon_url": "https://pbs.twimg.com/profile_images/1927408164049207297/8g5mEcnf_200x200.jpg",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nHL5irFKceo_jmpngi58K9-U2WiGxjlgeIUn1BCK_I4/https/pbs.twimg.com/profile_images/1927408164049207297/8g5mEcnf_200x200.jpg"
+          },
+          "image": {
+            "url": "https://pbs.twimg.com/media/GuEk7gyWUAAjwpM.jpg",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/7SUq5HVrQmNjwj6005vkqseUTufLNgyLDTgeYzzgKDc/https/pbs.twimg.com/media/GuEk7gyWUAAjwpM.jpg",
+            "width": 926,
+            "height": 1200,
+            "content_type": "image/jpeg",
+            "placeholder": "XwcGHQBNKGaGDcpWuGZLqgdmdb72",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "footer": {
+            "text": "FxTwitter",
+            "icon_url": "https://assets.fxembed.com/logos/fxtwitter-pride64.png",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/52qxiknDR8wfMzQ-XS0hgxvh7j3r5zZi33Ocv63Dj5E/https/assets.fxembed.com/logos/fxtwitter-pride64.png"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "timestamp": "2025-06-24T05:29:26.272000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1386941267405045843",
+      "channel_id": "1386941267405045843",
+      "author": {
+        "id": "1096392763144159252",
+        "username": "blankparticle",
+        "avatar": "63e62c1fd8470fafcec008eaa9486bf0",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Blank",
+        "avatar_decoration_data": {
+          "asset": "a_c3cffc19e9784f7d0b005eecdf1b566e",
+          "sku_id": "1212569433839636530",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        },
+        "primary_guild": {
+          "identity_guild_id": "574720535888396288",
+          "identity_enabled": true,
+          "tag": "NURO",
+          "badge": "439c5b7117f3f3e8e574b4766d1b7e73"
+        }
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  ],
+  "total_results": 4
+}
