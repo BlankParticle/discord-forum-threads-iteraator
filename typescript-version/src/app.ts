@@ -2,36 +2,6 @@ import "dotenv/config";
 import { createInterface } from "node:readline/promises";
 
 // Type definitions based on threads.json structure
-interface AvatarDecorationData {
-  asset: string;
-  sku_id: string;
-  expires_at: string | null;
-}
-
-interface CollectiblesNameplate {
-  sku_id: string;
-  asset: string;
-  label: string;
-  palette: string;
-}
-
-interface Collectibles {
-  nameplate: CollectiblesNameplate;
-}
-
-interface Clan {
-  identity_guild_id: string;
-  identity_enabled: boolean;
-  tag: string;
-  badge: string;
-}
-
-interface PrimaryGuild {
-  identity_guild_id: string;
-  identity_enabled: boolean;
-  tag: string;
-  badge: string;
-}
 
 interface Author {
   id: string;
@@ -43,11 +13,6 @@ interface Author {
   banner: string | null;
   accent_color: string | null;
   global_name: string;
-  avatar_decoration_data: AvatarDecorationData;
-  collectibles: Collectibles;
-  banner_color: string | null;
-  clan: Clan;
-  primary_guild: PrimaryGuild;
 }
 
 interface Attachment {

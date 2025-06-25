@@ -2,69 +2,6 @@ using Newtonsoft.Json;
 
 namespace DiscordBotPlay.Models;
 
-public class AvatarDecorationData
-{
-    [JsonProperty("asset")]
-    public string Asset { get; set; } = string.Empty;
-
-    [JsonProperty("sku_id")]
-    public string SkuId { get; set; } = string.Empty;
-
-    [JsonProperty("expires_at")]
-    public string? ExpiresAt { get; set; }
-}
-
-public class CollectiblesNameplate
-{
-    [JsonProperty("sku_id")]
-    public string SkuId { get; set; } = string.Empty;
-
-    [JsonProperty("asset")]
-    public string Asset { get; set; } = string.Empty;
-
-    [JsonProperty("label")]
-    public string Label { get; set; } = string.Empty;
-
-    [JsonProperty("palette")]
-    public string Palette { get; set; } = string.Empty;
-}
-
-public class Collectibles
-{
-    [JsonProperty("nameplate")]
-    public CollectiblesNameplate Nameplate { get; set; } = new();
-}
-
-public class Clan
-{
-    [JsonProperty("identity_guild_id")]
-    public string IdentityGuildId { get; set; } = string.Empty;
-
-    [JsonProperty("identity_enabled")]
-    public bool IdentityEnabled { get; set; }
-
-    [JsonProperty("tag")]
-    public string Tag { get; set; } = string.Empty;
-
-    [JsonProperty("badge")]
-    public string Badge { get; set; } = string.Empty;
-}
-
-public class PrimaryGuild
-{
-    [JsonProperty("identity_guild_id")]
-    public string IdentityGuildId { get; set; } = string.Empty;
-
-    [JsonProperty("identity_enabled")]
-    public bool IdentityEnabled { get; set; }
-
-    [JsonProperty("tag")]
-    public string Tag { get; set; } = string.Empty;
-
-    [JsonProperty("badge")]
-    public string Badge { get; set; } = string.Empty;
-}
-
 public class Author
 {
     [JsonProperty("id")]
@@ -93,21 +30,6 @@ public class Author
 
     [JsonProperty("global_name")]
     public string GlobalName { get; set; } = string.Empty;
-
-    [JsonProperty("avatar_decoration_data")]
-    public AvatarDecorationData AvatarDecorationData { get; set; } = new();
-
-    [JsonProperty("collectibles")]
-    public Collectibles Collectibles { get; set; } = new();
-
-    [JsonProperty("banner_color")]
-    public string? BannerColor { get; set; }
-
-    [JsonProperty("clan")]
-    public Clan Clan { get; set; } = new();
-
-    [JsonProperty("primary_guild")]
-    public PrimaryGuild PrimaryGuild { get; set; } = new();
 }
 
 public class Attachment
